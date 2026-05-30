@@ -33,9 +33,8 @@ career_agent/
 ├── search_tools.py               ← Tavily live search tools
 ├── pdf_generator.py              ← ReportLab PDF report generator
 ├── config.py                     ← Load and validate API keys
-├── data/
-│   ├── opportunities_10th.json   ← All paths after 10th (complete data)
-│   └── opportunities_inter.json  ← All paths after Inter by stream
+├── opportunities_10th.json   ← All paths after 10th (complete data) 
+├── opportunities_inter.json  ← All paths after Inter by stream   
 ├── requirements.txt
 └── README.md
 ```
@@ -178,25 +177,10 @@ Live progress screen showing the agent working:
 | UI | Streamlit | Free |
 | Language | Python | Free |
 
-**Total cost: ₹0 — Completely Free**
+
 
 ---
 
-## Troubleshooting
-
-**"GROQ_API_KEY not found" error**
-→ Make sure you filled the `.env` file correctly. No spaces around `=`.
-
-**"No module named streamlit" error**
-→ Run `pip install -r requirements.txt` again
-
-**Agent takes too long**
-→ Normal — it is searching live websites. Usually takes 30-60 seconds.
-
-**PDF download not working**
-→ Make sure reportlab is installed: `pip install reportlab`
-
----
 
 ## Important Note
 
@@ -204,4 +188,4 @@ This app uses AI-generated guidance based on your profile and live data. Always 
 
 ---
 
-Built with ❤️ for AP and Telangana students
+
