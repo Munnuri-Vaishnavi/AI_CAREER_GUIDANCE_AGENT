@@ -1,0 +1,481 @@
+{
+  "categories": [
+    {
+      "id": "intermediate",
+      "title": "Intermediate Education (11th & 12th)",
+      "icon": "🎓",
+      "color": "#4F46E5",
+      "summary": "2-year academic program after 10th. Gateway to engineering, medical, commerce, arts and all degree programs.",
+      "groups": [
+        {
+          "id": "mpc",
+          "name": "MPC — Maths, Physics, Chemistry",
+          "target": "Engineering, Pure Sciences, Architecture",
+          "duration": "2 years",
+          "eligibility": "10th pass, no minimum marks restriction but 60%+ recommended for competitive exams",
+          "boards": ["BIEAP — Board of Intermediate Education AP", "TSBIE — Telangana State Board of Intermediate Education"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in"],
+          "competitive_exams": [
+            {"name": "JEE Main", "body": "NTA", "site": "jeemain.nta.nic.in", "for": "B.Tech at NITs, IIITs, CFTIs"},
+            {"name": "JEE Advanced", "body": "IIT", "site": "jeeadv.ac.in", "for": "B.Tech at IITs — top engineering colleges India"},
+            {"name": "AP EAMCET", "body": "SCHE AP", "site": "sche.ap.gov.in", "for": "Engineering colleges in Andhra Pradesh"},
+            {"name": "TS EAMCET", "body": "TSCHE", "site": "tsche.ac.in", "for": "Engineering colleges in Telangana"},
+            {"name": "BITSAT", "body": "BITS Pilani", "site": "bitsadmission.com", "for": "BITS Pilani, Hyderabad, Goa campuses"},
+            {"name": "VITEEE", "body": "VIT University", "site": "viteee.vit.ac.in", "for": "VIT Vellore, Chennai, Bhopal, AP"},
+            {"name": "SRMJEEE", "body": "SRM University", "site": "srmjeee.srmist.edu.in", "for": "SRM group of colleges"},
+            {"name": "MET", "body": "Manipal University", "site": "manipal.edu", "for": "Manipal Institute of Technology"},
+            {"name": "COMEDK", "body": "COMEDK", "site": "comedk.org", "for": "Private engineering colleges Karnataka"},
+            {"name": "NATA", "body": "COA", "site": "nata.in", "for": "B.Arch at architecture colleges"},
+            {"name": "RGUKT CET", "body": "RGUKT", "site": "rgukt.ac.in", "for": "IIIT Basara and RGUKT AP campuses — free education"}
+          ],
+          "further_education": ["B.Tech (4 years)", "B.Sc Physics/Chemistry/Maths (3 years)", "B.Arch (5 years)", "Integrated M.Sc (5 years)", "B.Planning (4 years)"],
+          "top_colleges_ap_ts": [
+            "IIT Hyderabad — iith.ac.in",
+            "NIT Warangal — nitw.ac.in",
+            "IIIT Hyderabad — iiit.ac.in",
+            "IIIT Basara — rgukt.ac.in",
+            "JNTU Hyderabad — jntuh.ac.in",
+            "Osmania University — osmania.ac.in",
+            "JNTU Kakinada — jntuk.edu.in",
+            "Andhra University — andhrauniversity.edu.in"
+          ],
+          "govt_jobs_after": ["ISRO Scientist", "DRDO Scientist", "BARC Scientist", "PSUs — BHEL NTPC ONGC HPCL", "Railways Technical Officer", "APSPDCL/TSSPDCL Junior Engineer"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in", "NSP INSPIRE — scholarships.gov.in"]
+        },
+        {
+          "id": "bipc",
+          "name": "BiPC — Biology, Physics, Chemistry",
+          "target": "Medical, Pharmacy, Nursing, Allied Health Sciences",
+          "duration": "2 years",
+          "eligibility": "10th pass, Science background, 60%+ recommended for NEET",
+          "boards": ["BIEAP — bieap.apcfss.in", "TSBIE — tsbie.cgg.gov.in"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in"],
+          "competitive_exams": [
+            {"name": "NEET UG", "body": "NTA", "site": "nta.ac.in", "for": "MBBS, BDS, BAMS, BHMS, BUMS, B.VSc — mandatory for all medical"},
+            {"name": "AP EAMCET (Medical)", "body": "SCHE AP", "site": "sche.ap.gov.in", "for": "Medical, pharmacy, agriculture colleges in AP"},
+            {"name": "TS EAMCET (Medical)", "body": "TSCHE", "site": "tsche.ac.in", "for": "Medical, pharmacy, agriculture colleges in TS"},
+            {"name": "AIIMS", "body": "AIIMS", "site": "aiimsexams.ac.in", "for": "AIIMS institutes across India — through NEET"},
+            {"name": "SVVU CET", "body": "SVVU", "site": "svvu.edu.in", "for": "Veterinary Science — Sri Venkateswara Veterinary University AP"}
+          ],
+          "further_education": ["MBBS (5.5 years)", "BDS (5 years)", "BAMS Ayurveda (5.5 years)", "BHMS Homeopathy (5.5 years)", "BUMS Unani (5.5 years)", "BSMS Siddha (5.5 years)", "BNYS Naturopathy (5.5 years)", "B.Pharm (4 years)", "Pharm.D (6 years)", "B.Sc Nursing (4 years)", "BPT Physiotherapy (4.5 years)", "BOT Occupational Therapy (4.5 years)", "B.VSc Veterinary (5.5 years)", "B.Sc Agriculture (4 years)"],
+          "top_colleges_ap_ts": [
+            "AIIMS Mangalagiri AP — aiims.edu",
+            "Gandhi Medical College Hyderabad",
+            "Osmania Medical College Hyderabad",
+            "Andhra Medical College Visakhapatnam",
+            "Guntur Medical College",
+            "Kakatiya Medical College Warangal",
+            "SVIMS Tirupati — svimstpt.ap.nic.in",
+            "NTR University of Health Sciences — ntruhs.ap.nic.in"
+          ],
+          "govt_jobs_after": ["Government Doctor", "AYUSH Officer", "Health Officer PHC", "Drug Inspector", "Defence Medical Officer", "Railways Medical Officer"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in", "NSP — scholarships.gov.in"]
+        },
+        {
+          "id": "mec",
+          "name": "MEC — Maths, Economics, Commerce",
+          "target": "Finance, Business, Law, Accounting",
+          "duration": "2 years",
+          "eligibility": "10th pass",
+          "boards": ["BIEAP — bieap.apcfss.in", "TSBIE — tsbie.cgg.gov.in"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in"],
+          "competitive_exams": [
+            {"name": "CA Foundation", "body": "ICAI", "site": "icai.org", "for": "Chartered Accountancy — most prestigious finance career"},
+            {"name": "CMA Foundation", "body": "ICMAI", "site": "icmai.in", "for": "Cost and Management Accountancy"},
+            {"name": "CS Foundation", "body": "ICSI", "site": "icsi.edu", "for": "Company Secretary"},
+            {"name": "IPMAT", "body": "IIM Indore", "site": "ipmat.iimi.ac.in", "for": "Integrated MBA at IIM Indore, Rohtak, Ranchi"},
+            {"name": "CLAT", "body": "NLU", "site": "consortiumofnlus.ac.in", "for": "National Law Universities — integrated BA LLB"},
+            {"name": "AP LAWCET", "body": "SCHE AP", "site": "sche.ap.gov.in", "for": "Law colleges in Andhra Pradesh"},
+            {"name": "TS LAWCET", "body": "TSCHE", "site": "tsche.ac.in", "for": "Law colleges in Telangana"},
+            {"name": "CUET", "body": "NTA", "site": "cuet.samarth.ac.in", "for": "Central Universities across India — B.Com Honours etc"}
+          ],
+          "further_education": ["B.Com General/Computers/Honours (3 years)", "BBA (3 years)", "BA Economics (3 years)", "Integrated MBA (5 years)", "CA (4-5 years after foundation)", "CMA", "CS", "Integrated LLB (5 years)"],
+          "top_colleges_ap_ts": [
+            "Osmania University — osmania.ac.in",
+            "Andhra University — andhrauniversity.edu.in",
+            "NALSAR Hyderabad — nalsar.ac.in",
+            "University of Hyderabad — uohyd.ac.in",
+            "Sri Venkateswara University — svuniversity.edu.in"
+          ],
+          "govt_jobs_after": ["Banking PO/Clerk — IBPS", "SSC CGL Income Tax Inspector", "Revenue Department", "Audit and Accounts Service", "APPSC/TSPSC Group 2/3"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in", "NSP PM YASASVI — scholarships.gov.in"]
+        },
+        {
+          "id": "cec",
+          "name": "CEC — Civics, Economics, Commerce",
+          "target": "Commerce, Law, Administration, Banking",
+          "duration": "2 years",
+          "eligibility": "10th pass",
+          "boards": ["BIEAP — bieap.apcfss.in", "TSBIE — tsbie.cgg.gov.in"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in"],
+          "competitive_exams": [
+            {"name": "CA Foundation", "body": "ICAI", "site": "icai.org", "for": "Chartered Accountancy"},
+            {"name": "CLAT", "body": "NLU", "site": "consortiumofnlus.ac.in", "for": "National Law Universities"},
+            {"name": "AP LAWCET", "body": "SCHE AP", "site": "sche.ap.gov.in", "for": "Law colleges AP"},
+            {"name": "TS LAWCET", "body": "TSCHE", "site": "tsche.ac.in", "for": "Law colleges Telangana"},
+            {"name": "CUET", "body": "NTA", "site": "cuet.samarth.ac.in", "for": "Central Universities"},
+            {"name": "IBPS PO/Clerk Foundation", "body": "IBPS", "site": "ibps.in", "for": "Start preparation now for Banking after graduation"}
+          ],
+          "further_education": ["B.Com (3 years)", "BA (3 years)", "BBA (3 years)", "BHM (3 years)", "Integrated LLB (5 years)"],
+          "top_colleges_ap_ts": ["Osmania University", "Andhra University", "Kakatiya University", "NALSAR Hyderabad — nalsar.ac.in"],
+          "govt_jobs_after": ["Banking PO/Clerk", "SSC CGL", "State PSC Group 3", "Revenue MRI"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in"]
+        },
+        {
+          "id": "hec",
+          "name": "HEC — History, Economics, Civics",
+          "target": "Civil Services, Law, Humanities, Teaching",
+          "duration": "2 years",
+          "eligibility": "10th pass",
+          "boards": ["BIEAP — bieap.apcfss.in", "TSBIE — tsbie.cgg.gov.in"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in"],
+          "competitive_exams": [
+            {"name": "UPSC CSE Foundation", "body": "UPSC", "site": "upsc.gov.in", "for": "IAS IPS IFS — start foundation now"},
+            {"name": "APPSC Group 1/2/3", "body": "APPSC", "site": "appsc.gov.in", "for": "AP State Civil Services"},
+            {"name": "TSPSC Group 1/2/3", "body": "TSPSC", "site": "tspsc.gov.in", "for": "Telangana State Civil Services"},
+            {"name": "CLAT", "body": "NLU", "site": "consortiumofnlus.ac.in", "for": "Law — National Law Universities"},
+            {"name": "AP LAWCET", "body": "SCHE AP", "site": "sche.ap.gov.in", "for": "Law colleges AP"},
+            {"name": "TS LAWCET", "body": "TSCHE", "site": "tsche.ac.in", "for": "Law colleges Telangana"},
+            {"name": "CUET", "body": "NTA", "site": "cuet.samarth.ac.in", "for": "Central Universities BA programs"}
+          ],
+          "further_education": ["BA History/Political Science/Economics/Sociology/Psychology (3 years)", "Integrated LLB BA (5 years)", "BJournalism (3 years)", "BSW Social Work (3 years)", "BFA Fine Arts (4 years)"],
+          "top_colleges_ap_ts": ["University of Hyderabad — uohyd.ac.in", "Osmania University", "Andhra University", "NALSAR Hyderabad — nalsar.ac.in", "Kakatiya University"],
+          "govt_jobs_after": ["IAS/IPS/IFS via UPSC", "APPSC/TSPSC Civil Services", "Revenue Divisional Officer", "Government School Teacher", "Cultural Department Officer"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in", "NSP — scholarships.gov.in"]
+        },
+        {
+          "id": "vocational",
+          "name": "Vocational Intermediate Groups",
+          "target": "Skill-based careers, Technical fields, B.Voc programs",
+          "duration": "2 years",
+          "eligibility": "10th pass",
+          "groups_available": ["Agriculture", "Textile Technology", "Electronics", "Computer Science", "Beauty and Wellness", "Automobile Technology", "Construction Technology", "Food Science", "Healthcare"],
+          "boards": ["BIEAP Vocational — bieap.apcfss.in", "TSBIE Vocational — tsbie.cgg.gov.in"],
+          "official_sites": ["bieap.apcfss.in", "tsbie.cgg.gov.in", "apssdc.in", "tssdc.telangana.gov.in"],
+          "competitive_exams": [
+            {"name": "State Vocational CET", "body": "State Board", "site": "bieap.apcfss.in", "for": "Vocational degree programs"},
+            {"name": "POLYCET", "body": "SBTET", "site": "polycetap.nic.in", "for": "Lateral entry Diploma"},
+            {"name": "APSSDC Courses", "body": "APSSDC", "site": "apssdc.in", "for": "Advanced skill certifications AP"},
+            {"name": "TSSDC Courses", "body": "TSSDC", "site": "tssdc.telangana.gov.in", "for": "Advanced skill certifications TS"}
+          ],
+          "further_education": ["B.Voc (3 years)", "Diploma lateral entry", "Skill-based degree programs", "NSQF Level certifications"],
+          "govt_jobs_after": ["Technical Assistant posts", "Department-specific technical posts", "Skill India certified roles"],
+          "scholarships": ["AP ePass — apepass.apcfss.in", "TS ePass — telanganaepass.cgg.gov.in", "PMKVY — pmkvyofficial.org"]
+        }
+      ]
+    },
+    {
+      "id": "polytechnic",
+      "title": "Polytechnic Diploma",
+      "icon": "⚙️",
+      "color": "#0891B2",
+      "summary": "3-year technical diploma after 10th. Direct entry to jobs as Junior Engineer. Also gateway to B.Tech 2nd year lateral entry.",
+      "duration": "3 years",
+      "eligibility": "10th pass with Maths and Science. No minimum marks but higher marks = better college.",
+      "entrance_exams": [
+        {"name": "POLYCET AP", "body": "SBTET AP", "site": "polycetap.nic.in", "details": "AP State Polytechnic Common Entrance Test — conducted every year April/May"},
+        {"name": "POLYCET TS", "body": "SBTET TS", "site": "polycetts.nic.in", "details": "Telangana State Polytechnic Common Entrance Test — conducted every year April/May"}
+      ],
+      "branches": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering", "Electronics and Communication", "Computer Science and Engineering", "Chemical Engineering", "Metallurgy", "Mining", "Textile Technology", "Pharmacy (D.Pharm)", "Commercial Practice", "Hotel Management and Catering", "Agriculture Engineering"],
+      "top_colleges_ap_ts": [
+        "Government Polytechnic Hyderabad",
+        "Government Polytechnic Kakinada",
+        "Government Polytechnic Visakhapatnam",
+        "Government Polytechnic Vijayawada",
+        "Sri Venkateswara Government Polytechnic Tirupati",
+        "Government Polytechnic Warangal"
+      ],
+      "further_education": ["Lateral entry to B.Tech 2nd year — ECET exam", "B.Sc after diploma"],
+      "ecet_info": {"name": "ECET", "site_ap": "sche.ap.gov.in", "site_ts": "tsche.ac.in", "details": "Engineering Common Entrance Test for Diploma holders — direct B.Tech 2nd year admission"},
+      "govt_jobs": ["Junior Engineer in APSPDCL — apspdcl.in", "Junior Engineer in TSSPDCL — tsspdcl.in", "Junior Engineer in AP PWD", "Junior Engineer in TS PWD", "Junior Engineer HMWSSB Hyderabad", "Railways Junior Engineer — rrbapply.gov.in", "NTPC, BHEL, HAL technical posts", "Defence Technical — joinindianarmy.nic.in"],
+      "fee": "Very low in Government Polytechnics — Rs 5000 to 15000 per year",
+      "official_sites": ["polycetap.nic.in", "polycetts.nic.in", "sbtet.ap.gov.in", "sbtet.telangana.gov.in"]
+    },
+    {
+      "id": "iti",
+      "title": "ITI — Industrial Training Institute",
+      "icon": "🔧",
+      "color": "#059669",
+      "summary": "Skill-based technical training from 6 months to 2 years. Leads directly to employment, apprenticeship, and government technical jobs.",
+      "duration": "6 months to 2 years depending on trade",
+      "eligibility": "8th or 10th pass depending on trade. Most trades require 10th pass.",
+      "entrance_exams": [
+        {"name": "AP ITI Entrance", "body": "AP ITI", "site": "apitiadmissions.nic.in", "details": "AP state ITI admission — merit based on 10th marks"},
+        {"name": "TS ITI Entrance", "body": "TS ITI", "site": "itits.telangana.gov.in", "details": "Telangana state ITI admission — merit based on 10th marks"}
+      ],
+      "trades": [
+        {"name": "Electrician", "duration": "2 years", "demand": "Very High"},
+        {"name": "Fitter", "duration": "2 years", "demand": "High"},
+        {"name": "Turner", "duration": "2 years", "demand": "High"},
+        {"name": "Welder", "duration": "1 year", "demand": "Very High"},
+        {"name": "Mechanic Motor Vehicle", "duration": "2 years", "demand": "Very High"},
+        {"name": "COPA — Computer Operator Programming Assistant", "duration": "1 year", "demand": "High"},
+        {"name": "Plumber", "duration": "1 year", "demand": "High"},
+        {"name": "Carpenter", "duration": "1 year", "demand": "Moderate"},
+        {"name": "Draughtsman Civil", "duration": "2 years", "demand": "High"},
+        {"name": "Draughtsman Mechanical", "duration": "2 years", "demand": "High"},
+        {"name": "Wireman", "duration": "2 years", "demand": "High"},
+        {"name": "Sheet Metal Worker", "duration": "1 year", "demand": "Moderate"},
+        {"name": "Refrigeration and AC Mechanic", "duration": "2 years", "demand": "Very High"},
+        {"name": "Surveyor", "duration": "2 years", "demand": "High"},
+        {"name": "Stenography English", "duration": "1 year", "demand": "Moderate"},
+        {"name": "Dress Making", "duration": "1 year", "demand": "Moderate"},
+        {"name": "Electronics Mechanic", "duration": "2 years", "demand": "High"},
+        {"name": "Information and Communication Technology", "duration": "1 year", "demand": "High"}
+      ],
+      "further_education": ["Apprenticeship under companies — stipend paid", "Diploma lateral entry after completing ITI", "CTI — Craft Teacher Instructor for teaching in ITIs"],
+      "govt_jobs": ["Railways Group D and Technician — rrbapply.gov.in", "Defence technical posts — joinindianarmy.nic.in", "BHEL Apprentice — bhel.com", "HAL Apprentice — hal-india.co.in", "ECIL Apprentice — ecil.co.in", "APSPDCL/TSSPDCL Apprentice", "State Electricity Board technical posts"],
+      "fee": "Almost free in Government ITIs — Rs 1000 to 5000 per year",
+      "official_sites": ["apitiadmissions.nic.in", "itits.telangana.gov.in", "dget.nic.in"]
+    },
+    {
+      "id": "rgukt",
+      "title": "RGUKT — IIIT Basara and AP Campuses",
+      "icon": "🏛️",
+      "color": "#7C3AED",
+      "summary": "Rajiv Gandhi University of Knowledge Technologies — 6-year integrated PUC + B.Tech completely free for rural and deserving students of AP and Telangana.",
+      "duration": "6 years — 2 years PUC + 4 years B.Tech",
+      "eligibility": "10th pass, Rural area domicile preferred, Merit and income criteria apply. Open to all deserving students.",
+      "campuses": [
+        {"name": "IIIT Basara (Telangana)", "site": "rgukt.ac.in", "location": "Basara, Nirmal District, Telangana"},
+        {"name": "RGUKT RK Valley (AP)", "site": "rguktrkvalley.ac.in", "location": "Idupulapaya, YSR Kadapa District"},
+        {"name": "RGUKT Ongole (AP)", "site": "rguktongole.ac.in", "location": "Ongole, Prakasam District"},
+        {"name": "RGUKT Srikakulam (AP)", "site": "rguktsklm.ac.in", "location": "Srikakulam District"},
+        {"name": "RGUKT Nuzvid (AP)", "site": "rgukt.ac.in", "location": "Nuzvid, Krishna District"}
+      ],
+      "entrance_exam": {"name": "RGUKT CET", "site": "rgukt.ac.in", "details": "Conducted annually — merit based on 10th marks — separate cutoffs for Telangana and AP campuses"},
+      "branches": ["Computer Science and Engineering", "Electronics and Communication Engineering", "Civil Engineering", "Mechanical Engineering", "Chemical Engineering"],
+      "benefits": [
+        "Completely FREE — No tuition fee",
+        "FREE hostel accommodation",
+        "FREE food (heavily subsidized)",
+        "Laptop provided",
+        "Internet facility",
+        "World-class campus",
+        "B.Tech degree equivalent to regular 4-year B.Tech",
+        "Good placement opportunities"
+      ],
+      "further_education": ["M.Tech (GATE based)", "MBA", "MS abroad", "Direct placement"],
+      "placement_companies": ["TCS", "Infosys", "Wipro", "HCL", "Cognizant", "Amazon", "Hyderabad based IT companies"],
+      "official_sites": ["rgukt.ac.in", "rguktrkvalley.ac.in", "rguktongole.ac.in", "rguktsklm.ac.in"]
+    },
+    {
+      "id": "paramedical",
+      "title": "Paramedical Diploma Courses",
+      "icon": "🏥",
+      "color": "#DC2626",
+      "summary": "Medical support career without NEET. 1 to 3 year diploma programs leading to government hospital jobs.",
+      "courses": [
+        {"name": "DMLT — Diploma in Medical Lab Technology", "duration": "2 years", "further": "B.Sc MLT", "jobs": "Lab Technician in Government hospitals, PHC, Railways"},
+        {"name": "DMRT — Diploma in Medical Radiology Technology", "duration": "2 years", "further": "B.Sc Radiology", "jobs": "Radiology Technician in hospitals"},
+        {"name": "DOT — Diploma in Operation Theatre Technology", "duration": "2 years", "further": "B.Sc OTT", "jobs": "OT Technician in hospitals"},
+        {"name": "DPT — Diploma in Physiotherapy", "duration": "2 years", "further": "BPT 4.5 years", "jobs": "Physiotherapist in hospitals, sports"},
+        {"name": "Dialysis Technician Diploma", "duration": "1 year", "further": "B.Sc Dialysis Technology", "jobs": "Dialysis Technician — very high demand"},
+        {"name": "DOTT — Diploma in Optometry Technology", "duration": "2 years", "further": "B.Sc Optometry", "jobs": "Optometrist in eye hospitals"},
+        {"name": "ECG Technician Diploma", "duration": "1 year", "further": "B.Sc Cardiac Technology", "jobs": "ECG Technician in cardiac hospitals"},
+        {"name": "Dental Hygienist Diploma", "duration": "2 years", "further": "BDS support roles", "jobs": "Dental clinics and hospitals"}
+      ],
+      "eligibility": "10th pass for most diploma courses. BiPC preferred but not mandatory for all.",
+      "admission": "State level paramedical entrance exams — AP and TS medical education boards",
+      "official_sites": ["ntruhs.ap.nic.in", "knruhs.telangana.gov.in"],
+      "govt_jobs": ["Government hospitals", "Primary Health Centres", "Railways hospitals", "Defence hospitals", "AIIMS supportive roles"],
+      "neet_required": false
+    },
+    {
+      "id": "nursing",
+      "title": "Nursing Programs",
+      "icon": "💊",
+      "color": "#BE185D",
+      "summary": "Highly respected and in-demand profession. Government jobs in India and huge demand abroad — Middle East, UK, USA, Australia.",
+      "courses": [
+        {"name": "ANM — Auxiliary Nursing Midwifery", "duration": "2 years", "eligibility": "10th pass, preferably girls", "further": "GNM, B.Sc Nursing", "jobs": "PHC, Government hospitals, Village health worker"},
+        {"name": "GNM — General Nursing and Midwifery", "duration": "3.5 years", "eligibility": "10th pass with 40% marks, Science preferred", "further": "B.Sc Nursing (Post Basic 2 years)", "jobs": "Government hospitals, Private hospitals, Abroad — Middle East UK USA Australia"}
+      ],
+      "entrance_exams": [
+        {"name": "AP Nursing Entrance", "body": "NTR University of Health Sciences", "site": "ntruhs.ap.nic.in"},
+        {"name": "TS Nursing Entrance", "body": "Kaloji Narayana Rao University", "site": "knruhs.telangana.gov.in"}
+      ],
+      "abroad_opportunities": "Very high demand for Indian nurses in UAE, Saudi Arabia, Qatar, UK, USA, Australia. Telugu nurses highly preferred.",
+      "govt_jobs": ["Government hospital nurse", "PHC staff nurse", "AIIMS nurse", "Railways nurse", "Defence Army/Navy/Air Force nurse"],
+      "official_sites": ["ntruhs.ap.nic.in", "knruhs.telangana.gov.in", "indiannursingcouncil.org"]
+    },
+    {
+      "id": "pharmacy",
+      "title": "D.Pharm — Diploma in Pharmacy",
+      "icon": "💉",
+      "color": "#0369A1",
+      "summary": "2-year pharmacy diploma. Opens doors to government pharmacy jobs and lateral entry to B.Pharm.",
+      "duration": "2 years",
+      "eligibility": "10th pass with Science subjects",
+      "entrance_exams": [
+        {"name": "AP POLYCET (Pharmacy branch)", "site": "polycetap.nic.in"},
+        {"name": "TS POLYCET (Pharmacy branch)", "site": "polycetts.nic.in"}
+      ],
+      "further_education": ["B.Pharm lateral entry (4 years)", "Pharm.D (Doctor of Pharmacy)"],
+      "govt_jobs": ["Government hospital pharmacist", "Drug Inspector", "Railways pharmacist", "Defence pharmacist", "Drug manufacturing quality control"],
+      "official_sites": ["apsbcop.ap.gov.in", "tspci.telangana.gov.in"]
+    },
+    {
+      "id": "hotel_management",
+      "title": "Hotel Management & Catering",
+      "icon": "🍽️",
+      "color": "#B45309",
+      "summary": "3-year diploma opening doors to 5-star hotels, airlines, cruise ships and your own restaurant.",
+      "duration": "3 years",
+      "eligibility": "10th pass",
+      "entrance_exams": [
+        {"name": "NCHMCT JEE", "body": "NTA", "site": "nta.ac.in", "for": "National Council Hotel Management colleges"},
+        {"name": "AP/TS State HM Entrance", "body": "State Board", "site": "polycetap.nic.in", "for": "State hotel management colleges"}
+      ],
+      "further_education": ["B.Sc Hotel Management (lateral entry)", "MBA Hospitality"],
+      "jobs": ["5-star hotels", "Airlines catering", "Cruise ships", "Corporate catering", "Own restaurant/hotel", "Tourism department"],
+      "official_sites": ["nchm.nic.in", "nchmct.org"]
+    },
+    {
+      "id": "agriculture_diploma",
+      "title": "Agriculture Diploma",
+      "icon": "🌾",
+      "color": "#15803D",
+      "summary": "2-year diploma in agriculture. Gateway to agriculture officer posts and B.Sc Agriculture lateral entry.",
+      "duration": "2 years",
+      "eligibility": "10th pass",
+      "entrance_exams": [
+        {"name": "AP Agriculture Polytechnic Entrance", "site": "apagros.ap.gov.in"},
+        {"name": "TS Agriculture Polytechnic Entrance", "site": "ts.gov.in"}
+      ],
+      "further_education": ["B.Sc Agriculture lateral entry — AP/TS EAMCET", "B.Sc Horticulture", "B.Sc Forestry"],
+      "govt_jobs": ["Agriculture Extension Officer — APPSC/TSPSC", "Horticulture Officer", "Seed Inspector", "Fertilizer Inspector", "NABARD Agriculture Officer"],
+      "official_sites": ["apagros.ap.gov.in", "rars.ap.gov.in", "pjtsau.ac.in"]
+    },
+    {
+      "id": "fine_arts",
+      "title": "Fine Arts & Design Diploma",
+      "icon": "🎨",
+      "color": "#7C3AED",
+      "summary": "4-year diploma in fine arts or design. For creatively gifted students.",
+      "duration": "4 years",
+      "eligibility": "10th pass, creative aptitude",
+      "entrance_exams": [
+        {"name": "AP State Fine Arts Entrance", "site": "apsche.ap.gov.in"},
+        {"name": "TS State Fine Arts Entrance", "site": "tsche.ac.in"},
+        {"name": "NID Entrance", "site": "admissions.nid.edu", "for": "National Institute of Design"},
+        {"name": "NIFT Entrance", "site": "nift.ac.in", "for": "National Institute of Fashion Technology"}
+      ],
+      "further_education": ["B.FA", "NID Design programs", "NIFT Fashion Technology", "Animation courses"],
+      "jobs": ["Graphic Designer", "Animator", "Art Director", "Fashion Designer", "Interior Designer", "Film industry"],
+      "official_sites": ["nid.edu", "nift.ac.in"]
+    },
+    {
+      "id": "defence",
+      "title": "Defence & Uniformed Services",
+      "icon": "🪖",
+      "color": "#92400E",
+      "summary": "Serve the nation. Salary from day one, government housing, medical, pension. Most entries open after 10th itself.",
+      "entries_after_10th": [
+        {"name": "Indian Army — Soldier General Duty", "eligibility": "10th pass, 45% aggregate, Age 17.5-21", "site": "joinindianarmy.nic.in", "salary": "Rs 21,700 + allowances from day one"},
+        {"name": "Indian Army — Soldier Technical", "eligibility": "10th pass with Science and Maths 50%", "site": "joinindianarmy.nic.in", "salary": "Rs 21,700 + allowances"},
+        {"name": "Indian Army — Soldier Clerk/SKT", "eligibility": "10th pass 60% overall, 50% in English and Maths", "site": "joinindianarmy.nic.in"},
+        {"name": "Indian Army — Soldier Tradesman", "eligibility": "10th pass for most trades", "site": "joinindianarmy.nic.in"},
+        {"name": "Indian Navy — Matric Recruit (MR)", "eligibility": "10th pass, Age 17-21", "site": "joinindiannavy.gov.in"},
+        {"name": "Indian Air Force — Airmen Group Y", "eligibility": "10th pass for some trades", "site": "airmenselection.cdac.in"},
+        {"name": "CISF/BSF/CRPF/SSB Constable", "eligibility": "10th pass, Age 18-23", "site": "ssc.nic.in"},
+        {"name": "AP Police Constable", "eligibility": "10th pass, Age 18-25", "site": "slprb.ap.gov.in"},
+        {"name": "TS Police Constable", "eligibility": "10th pass, Age 18-25", "site": "tslprb.in"},
+        {"name": "AP Forest Guard", "eligibility": "10th pass", "site": "appsc.gov.in"},
+        {"name": "TS Forest Guard", "eligibility": "10th pass", "site": "tspsc.gov.in"}
+      ],
+      "benefits": ["Salary from day one", "Government housing (accommodation)", "Free medical for self and family", "Pension after retirement", "Canteen (CSD) facilities", "Education for children", "Travel benefits", "Social respect and status"],
+      "official_sites": ["joinindianarmy.nic.in", "joinindiannavy.gov.in", "airmenselection.cdac.in", "slprb.ap.gov.in", "tslprb.in", "ssc.nic.in"]
+    },
+    {
+      "id": "govt_jobs_10th",
+      "title": "Government Jobs After 10th",
+      "icon": "🏛️",
+      "color": "#1D4ED8",
+      "summary": "Direct government employment after 10th. Central and state government jobs with job security and benefits.",
+      "jobs": [
+        {"name": "SSC MTS — Multi Tasking Staff", "body": "SSC", "site": "ssc.nic.in", "details": "Central government offices across India — stable central govt job"},
+        {"name": "Railways RRB Group D", "body": "RRB", "site": "rrbapply.gov.in", "details": "Trackman, helper, porter — Railways — Pan India posting"},
+        {"name": "Railways RRB Technician", "body": "RRB", "site": "rrbapply.gov.in", "details": "Technical trades in Railways"},
+        {"name": "Post Office GDS — Gramin Dak Sevak", "body": "India Post", "site": "indiapost.gov.in", "details": "Village level post office work — merit based 10th marks — no exam"},
+        {"name": "Post Office MTS and Postman", "body": "India Post", "site": "indiapost.gov.in", "details": "Urban post office roles"},
+        {"name": "AP Grama Volunteer", "body": "AP Government", "site": "gramavolunteer.ap.gov.in", "details": "Village level government service AP"},
+        {"name": "AP/TS Sachivalayam", "body": "State Government", "site": "appsc.gov.in", "details": "Ward and Gram Sachivalayam posts"},
+        {"name": "Revenue Department MTS", "body": "State Government", "site": "appsc.gov.in", "details": "Revenue office support staff"},
+        {"name": "Forest Department Guard", "body": "AP/TS Forest Dept", "site": "appsc.gov.in", "details": "Forest guard and watcher posts"},
+        {"name": "AP Police Constable", "body": "AP Police", "site": "slprb.ap.gov.in", "details": "State police constable — good salary and career growth"},
+        {"name": "TS Police Constable", "body": "TS Police", "site": "tslprb.in", "details": "State police constable"},
+        {"name": "APSPDCL Helper/Lineman", "body": "APSPDCL", "site": "apspdcl.in", "details": "AP electricity board helper posts"},
+        {"name": "TSSPDCL Helper/Lineman", "body": "TSSPDCL", "site": "tsspdcl.in", "details": "TS electricity board helper posts"}
+      ],
+      "official_sites": ["ssc.nic.in", "rrbapply.gov.in", "indiapost.gov.in", "appsc.gov.in", "tspsc.gov.in", "slprb.ap.gov.in", "tslprb.in"]
+    },
+    {
+      "id": "skill_development",
+      "title": "Skill Development Courses",
+      "icon": "🛠️",
+      "color": "#0F766E",
+      "summary": "Free or very low cost government-certified skill courses. Leads to direct employment with nationally recognised certificates.",
+      "providers": [
+        {
+          "name": "APSSDC — AP State Skill Development Corporation",
+          "site": "apssdc.in",
+          "courses": ["Retail Management", "BFSI (Banking Financial)", "Healthcare Assistant", "IT and ITES", "Automobile Technician", "Construction Worker", "Beauty and Wellness", "Agriculture Technology"],
+          "duration": "3 months to 1 year",
+          "cost": "Free for eligible students",
+          "placement": "Placement assistance provided"
+        },
+        {
+          "name": "TSSDC — Telangana State Skill Development Corporation",
+          "site": "tssdc.telangana.gov.in",
+          "courses": ["Same as above — Telangana specific"],
+          "duration": "3 months to 1 year",
+          "cost": "Free for eligible students",
+          "placement": "Placement assistance provided"
+        },
+        {
+          "name": "PMKVY — Pradhan Mantri Kaushal Vikas Yojana",
+          "site": "pmkvyofficial.org",
+          "courses": ["30+ sector skills", "IT, Electronics, Retail, Textile, Construction, Healthcare, Hospitality, Logistics"],
+          "duration": "3 months to 6 months",
+          "cost": "Completely FREE — Government funded",
+          "certification": "NSQF nationally recognized certificate",
+          "stipend": "Small stipend also provided in some courses"
+        }
+      ],
+      "official_sites": ["apssdc.in", "tssdc.telangana.gov.in", "pmkvyofficial.org", "skillindia.gov.in"]
+    },
+    {
+      "id": "scholarships_10th",
+      "title": "Scholarships & Financial Aid",
+      "icon": "💰",
+      "color": "#B45309",
+      "summary": "Multiple scholarship schemes from AP government, TS government, and Central government. Many are fully funded.",
+      "ap_scholarships": [
+        {"name": "Jagananna Vidya Deevena", "benefit": "Full fee reimbursement for all courses", "eligibility": "Income below 2.5 lakhs, AP domicile", "site": "apepass.apcfss.in"},
+        {"name": "Jagananna Vasathi Deevena", "benefit": "Rs 10,000 to 20,000 per year for living expenses", "eligibility": "Income below 2.5 lakhs, AP domicile", "site": "apepass.apcfss.in"},
+        {"name": "AP Pre-Matric Scholarship", "benefit": "Scholarship for SC/ST/BC/Minority students during 10th", "eligibility": "SC/ST/BC/Minority students", "site": "apepass.apcfss.in"},
+        {"name": "AP Post-Matric Scholarship", "benefit": "Tuition fee + maintenance for after 10th education", "eligibility": "SC/ST/BC/Minority, income criteria", "site": "apepass.apcfss.in"}
+      ],
+      "ts_scholarships": [
+        {"name": "TS ePass Scholarship", "benefit": "Full fee and maintenance allowance", "eligibility": "SC/ST/BC/Minority/EBC students, TS domicile", "site": "telanganaepass.cgg.gov.in"},
+        {"name": "TS Merit Scholarship", "benefit": "For top rank students", "eligibility": "Merit based — top rankers in board exams", "site": "telanganaepass.cgg.gov.in"},
+        {"name": "Kalyana Lakshmi / Shaadi Mubarak", "benefit": "Financial support for girls education", "eligibility": "Girl students from SC/ST/BC/Minority", "site": "telanganaepass.cgg.gov.in"}
+      ],
+      "central_scholarships": [
+        {"name": "NSP — National Scholarship Portal", "benefit": "Multiple central schemes in one portal", "eligibility": "Various — check portal", "site": "scholarships.gov.in"},
+        {"name": "PM YASASVI", "benefit": "Rs 75,000 to 1,25,000 per year", "eligibility": "OBC/EBC/DNT students, income below 2.5 lakhs", "site": "scholarships.gov.in"},
+        {"name": "National Means Cum Merit Scholarship", "benefit": "Rs 12,000 per year", "eligibility": "Merit + income criteria, state level exam", "site": "scholarships.gov.in"},
+        {"name": "Maulana Azad National Fellowship", "benefit": "Full fellowship for Minority students", "eligibility": "Minority community students", "site": "scholarships.gov.in"}
+      ],
+      "private_scholarships": [
+        {"name": "Sitaram Jindal Foundation", "benefit": "Rs 1,000 to 2,000 per month", "site": "sitaramjindalfoundation.org"},
+        {"name": "Reliance Foundation Scholarship", "benefit": "Full scholarship for meritorious students", "site": "reliancefoundation.org"},
+        {"name": "Tata Capital Pankh Scholarship", "benefit": "Financial support for higher education", "site": "buddy4study.com"},
+        {"name": "Buddy4Study Platform", "benefit": "Multiple private scholarships aggregator", "site": "buddy4study.com"},
+        {"name": "Vidyasaarathi Platform", "benefit": "Corporate scholarship aggregator", "site": "vidyasaarathi.co.in"}
+      ],
+      "official_sites": ["apepass.apcfss.in", "telanganaepass.cgg.gov.in", "scholarships.gov.in", "buddy4study.com"]
+    }
+  ]
+}

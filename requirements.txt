@@ -1,0 +1,7 @@
+streamlit==1.35.0
+langchain==0.2.6
+langchain-groq==0.1.6
+langchain-community==0.2.6
+tavily-python==0.3.3
+reportlab==4.1.0
+python-dotenv==1.0.1

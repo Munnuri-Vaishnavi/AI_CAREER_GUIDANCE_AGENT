@@ -1,0 +1,481 @@
+{
+  "streams": {
+    "MPC": {
+      "label": "MPC — Maths, Physics, Chemistry",
+      "categories": [
+        {
+          "id": "engineering",
+          "title": "Engineering — B.Tech / B.E.",
+          "icon": "⚙️",
+          "color": "#1D4ED8",
+          "summary": "4-year engineering degree. Highest placements, best career growth. Multiple top-tier exams.",
+          "duration": "4 years",
+          "eligibility": "12th MPC with 60%+ for top colleges. 45% for state colleges.",
+          "entrance_exams": [
+            {"name": "JEE Main", "body": "NTA", "site": "jeemain.nta.nic.in", "details": "Gateway to NITs, IIITs, CFTIs — 2 attempts per year Jan and April", "cutoff_general": "90+ percentile for NITs"},
+            {"name": "JEE Advanced", "body": "IIT Delhi", "site": "jeeadv.ac.in", "details": "Only top 2.5 lakh JEE Main qualifiers can appear — IITs admission", "cutoff_general": "Top 1% of JEE Main"},
+            {"name": "AP EAMCET Engineering", "body": "SCHE AP", "site": "sche.ap.gov.in", "details": "State exam for AP engineering colleges — conducted April/May"},
+            {"name": "TS EAMCET Engineering", "body": "TSCHE", "site": "tsche.ac.in", "details": "State exam for Telangana engineering colleges — conducted April/May"},
+            {"name": "BITSAT", "body": "BITS Pilani", "site": "bitsadmission.com", "details": "For BITS Pilani, Hyderabad (Hyderabad campus very popular), Goa — high package placements"},
+            {"name": "VITEEE", "body": "VIT", "site": "viteee.vit.ac.in", "details": "VIT Vellore, Chennai, Bhopal, AP — good placements"},
+            {"name": "SRMJEEE", "body": "SRM", "site": "srmjeee.srmist.edu.in", "details": "SRM group of colleges"},
+            {"name": "MET", "body": "Manipal", "site": "manipal.edu", "details": "Manipal Institute of Technology"},
+            {"name": "COMEDK", "body": "COMEDK", "site": "comedk.org", "details": "Private engineering colleges in Karnataka"},
+            {"name": "CUET", "body": "NTA", "site": "cuet.samarth.ac.in", "details": "Central Universities engineering programs"}
+          ],
+          "top_branches": ["Computer Science (CSE)", "AI and Machine Learning", "Data Science", "Electronics (ECE)", "Electrical (EEE)", "Mechanical", "Civil", "Chemical", "IT", "Robotics and Automation", "Cybersecurity"],
+          "top_colleges_ap_ts": [
+            {"name": "IIT Hyderabad", "site": "iith.ac.in", "type": "Central"},
+            {"name": "NIT Warangal", "site": "nitw.ac.in", "type": "Central"},
+            {"name": "IIIT Hyderabad", "site": "iiit.ac.in", "type": "Autonomous"},
+            {"name": "IIIT Basara (RGUKT)", "site": "rgukt.ac.in", "type": "State — Free"},
+            {"name": "JNTU Hyderabad", "site": "jntuh.ac.in", "type": "State"},
+            {"name": "Osmania University", "site": "osmania.ac.in", "type": "State"},
+            {"name": "JNTU Kakinada", "site": "jntuk.edu.in", "type": "State"},
+            {"name": "Andhra University", "site": "andhrauniversity.edu.in", "type": "Central"},
+            {"name": "BITS Pilani Hyderabad", "site": "bits-pilani.ac.in", "type": "Private"},
+            {"name": "VIT AP Amaravati", "site": "vitap.ac.in", "type": "Private"}
+          ],
+          "top_colleges_national": ["IIT Bombay", "IIT Delhi", "IIT Madras", "IIT Kanpur", "NIT Trichy", "NIT Surathkal", "BITS Pilani Rajasthan"],
+          "further_education": ["M.Tech via GATE — gate.iisc.ac.in", "MBA via CAT after B.Tech", "MS abroad — GRE based", "PhD research"],
+          "govt_jobs_after_btech": [
+            {"name": "ISRO Scientist/Engineer", "site": "isro.gov.in"},
+            {"name": "DRDO Scientist", "site": "drdo.gov.in"},
+            {"name": "BARC Scientist", "site": "barc.gov.in"},
+            {"name": "BHEL Engineer", "site": "bhel.com"},
+            {"name": "NTPC Engineer", "site": "ntpc.co.in"},
+            {"name": "ONGC Engineer", "site": "ongcindia.com"},
+            {"name": "HPCL Engineer", "site": "hindustanpetroleum.com"},
+            {"name": "APSPDCL Junior Engineer", "site": "apspdcl.in"},
+            {"name": "TSSPDCL Junior Engineer", "site": "tsspdcl.in"},
+            {"name": "Railways Senior Section Engineer", "site": "rrbapply.gov.in"},
+            {"name": "UPSC IES — Engineering Services", "site": "upsc.gov.in"}
+          ],
+          "salary_outlook": {"entry": "Rs 3-8 LPA", "3_years": "Rs 8-15 LPA", "5_years": "Rs 15-30 LPA", "top_companies": "Rs 30-80 LPA"}
+        },
+        {
+          "id": "pure_science",
+          "title": "Pure Sciences — B.Sc",
+          "icon": "🔬",
+          "color": "#0891B2",
+          "summary": "3-year science degree. Research and academic career. Best base for UPSC, teaching and research.",
+          "entrance_exams": [
+            {"name": "CUET", "body": "NTA", "site": "cuet.samarth.ac.in", "details": "Central Universities — University of Hyderabad, BHU, DU etc"},
+            {"name": "University of Hyderabad Entrance", "site": "uohyd.ac.in", "details": "Premier research university Hyderabad"},
+            {"name": "AP/TS University Direct Admission", "site": "sche.ap.gov.in", "details": "Merit based — 12th marks"}
+          ],
+          "courses": ["B.Sc Physics", "B.Sc Chemistry", "B.Sc Mathematics", "B.Sc Statistics", "B.Sc Electronics", "B.Sc Computer Science", "B.Sc Biotechnology", "Integrated M.Sc (5 years) at IISc IITs"],
+          "top_colleges": ["IISc Bangalore — iisc.ac.in", "University of Hyderabad — uohyd.ac.in", "Osmania University", "Andhra University", "Sri Venkateswara University"],
+          "further_education": ["M.Sc", "PhD", "CSIR NET — csirnet.nta.ac.in", "GATE for PSUs", "Teaching via NET"],
+          "govt_jobs": ["Scientist in ISRO/DRDO/BARC", "Government college lecturer via NET", "Lab Scientist in govt hospitals", "SSC Scientific Assistant"]
+        },
+        {
+          "id": "architecture",
+          "title": "Architecture — B.Arch",
+          "icon": "🏗️",
+          "color": "#7C3AED",
+          "summary": "5-year program. Design buildings, cities, spaces. Creative + technical combination.",
+          "entrance_exams": [
+            {"name": "NATA — National Aptitude Test in Architecture", "body": "COA", "site": "nata.in", "details": "Mandatory for all B.Arch admissions in India"},
+            {"name": "JEE Paper 2", "body": "NTA", "site": "jeemain.nta.nic.in", "details": "For NITs and some IITs architecture programs"},
+            {"name": "AP EAMCET Architecture", "site": "sche.ap.gov.in"},
+            {"name": "TS EAMCET Architecture", "site": "tsche.ac.in"}
+          ],
+          "top_colleges": ["School of Planning and Architecture Delhi — spa.ac.in", "NIT Warangal Architecture", "JNTU Hyderabad Architecture", "Andhra University Architecture"],
+          "govt_jobs": ["CPWD Architect", "AP/TS PWD Architect", "Town Planning Department", "HMDA Hyderabad"]
+        },
+        {
+          "id": "nda_mpc",
+          "title": "NDA — National Defence Academy",
+          "icon": "🪖",
+          "color": "#92400E",
+          "summary": "Join Indian Army, Navy, Air Force as Officer directly after 12th MPC. Most prestigious defence entry.",
+          "entrance_exam": {"name": "UPSC NDA", "body": "UPSC", "site": "upsc.gov.in", "details": "Conducted twice a year — Written + SSB Interview. Age 16.5-19.5 years. PCM mandatory for Navy and Air Force."},
+          "duration": "3 years NDA + 1 year IMA/INA/AFA = 4 years total",
+          "benefits": ["Officer rank from day one", "Salary Rs 56,100+ per month", "Free housing", "Free medical", "Pension", "Most respected career in India"],
+          "official_sites": ["upsc.gov.in", "nda.nic.in"]
+        },
+        {
+          "id": "merchant_navy",
+          "title": "Merchant Navy",
+          "icon": "🚢",
+          "color": "#0369A1",
+          "summary": "Travel the world and earn in dollars. Highest paying career for 12th students. PCM required.",
+          "courses": ["B.Sc Nautical Science (3 years)", "B.E. Marine Engineering (4 years)", "Diploma in Nautical Science (1 year pre-sea training)"],
+          "entrance_exams": [{"name": "IMU CET", "body": "Indian Maritime University", "site": "imu.edu.in", "details": "Gateway to all merchant navy programs"}],
+          "salary": "Rs 80,000 to 3,00,000 per month after qualification. Tax free when sailing internationally.",
+          "official_sites": ["imu.edu.in", "dgshipping.gov.in"]
+        }
+      ]
+    },
+    "BiPC": {
+      "label": "BiPC — Biology, Physics, Chemistry",
+      "categories": [
+        {
+          "id": "medical",
+          "title": "Medical Programs — MBBS, BDS and AYUSH",
+          "icon": "🩺",
+          "color": "#DC2626",
+          "summary": "Most prestigious career in India. Serve millions. Government doctor is the most secure and respected profession.",
+          "entrance_exams": [
+            {"name": "NEET UG", "body": "NTA", "site": "nta.ac.in", "details": "Mandatory single exam for ALL medical admissions in India — MBBS BDS BAMS BHMS BUMS BNYS BVSc. Conducted May every year.", "cutoff_govt_college": "600+ for government MBBS colleges"},
+            {"name": "AP EAMCET Medical", "body": "SCHE AP", "site": "sche.ap.gov.in", "details": "AP state counselling based on NEET score"},
+            {"name": "TS EAMCET Medical", "body": "TSCHE", "site": "tsche.ac.in", "details": "TS state counselling based on NEET score"},
+            {"name": "AIPMT / AIIMS", "body": "AIIMS", "site": "aiimsexams.ac.in", "details": "AIIMS admissions now through NEET — AIIMS Mangalagiri in AP"}
+          ],
+          "courses": [
+            {"name": "MBBS", "duration": "5.5 years + 1 year internship", "seats_ap_ts": "Govt + Pvt combined 10000+ seats", "govt_fee": "Rs 10,000-25,000 per year govt colleges"},
+            {"name": "BDS — Dental", "duration": "5 years + 1 year internship"},
+            {"name": "BAMS — Ayurveda", "duration": "5.5 years"},
+            {"name": "BHMS — Homeopathy", "duration": "5.5 years"},
+            {"name": "BUMS — Unani", "duration": "5.5 years"},
+            {"name": "BSMS — Siddha", "duration": "5.5 years"},
+            {"name": "BNYS — Naturopathy and Yoga", "duration": "5.5 years"}
+          ],
+          "top_colleges_ap_ts": [
+            {"name": "AIIMS Mangalagiri", "site": "aiimsmangalagiri.edu.in"},
+            {"name": "Osmania Medical College Hyderabad", "site": "osmmc.edu.in"},
+            {"name": "Gandhi Medical College Hyderabad", "site": "gmchyderabad.in"},
+            {"name": "Kakatiya Medical College Warangal"},
+            {"name": "Andhra Medical College Visakhapatnam"},
+            {"name": "Guntur Medical College"},
+            {"name": "SVIMS Tirupati", "site": "svimstpt.ap.nic.in"},
+            {"name": "NTR University of Health Sciences", "site": "ntruhs.ap.nic.in"},
+            {"name": "Kaloji Narayana Rao University of Health Sciences", "site": "knruhs.telangana.gov.in"}
+          ],
+          "further_education": ["MD/MS — Postgraduate medical via NEET PG", "DNB", "Super specialization DM/MCh", "Fellowship programs"],
+          "govt_jobs": ["Government Doctor at PHC", "Civil Surgeon", "District Medical Officer", "AYUSH Medical Officer", "Railways Medical Officer", "Defence Medical Officer", "UPSC IFS Medical"]
+        },
+        {
+          "id": "pharmacy_bipc",
+          "title": "Pharmacy — B.Pharm and Pharm.D",
+          "icon": "💊",
+          "color": "#0369A1",
+          "summary": "4-6 year pharmacy programs. Drug manufacturing, hospitals, clinical pharmacy.",
+          "entrance_exams": [
+            {"name": "AP EAMCET (Pharmacy)", "site": "sche.ap.gov.in"},
+            {"name": "TS EAMCET (Pharmacy)", "site": "tsche.ac.in"},
+            {"name": "GPAT after B.Pharm", "body": "NTA", "site": "gpat.nta.ac.in", "details": "Post graduate pharmacy admission"}
+          ],
+          "courses": [{"name": "B.Pharm", "duration": "4 years"}, {"name": "Pharm.D — Doctor of Pharmacy", "duration": "6 years"}],
+          "govt_jobs": ["Government hospital pharmacist", "Drug Inspector", "Drug Control Officer", "Railways pharmacist", "Defence pharmacist"],
+          "official_sites": ["apsbcop.ap.gov.in", "tspci.telangana.gov.in"]
+        },
+        {
+          "id": "nursing_bsc",
+          "title": "B.Sc Nursing",
+          "icon": "🏥",
+          "color": "#BE185D",
+          "summary": "4-year degree. Government hospitals, AIIMS, abroad opportunities — highest demand profession worldwide.",
+          "entrance_exams": [
+            {"name": "AP Nursing Entrance", "site": "ntruhs.ap.nic.in"},
+            {"name": "TS Nursing Entrance", "site": "knruhs.telangana.gov.in"},
+            {"name": "AIIMS Nursing Entrance", "site": "aiimsexams.ac.in"},
+            {"name": "JIPMER Nursing", "site": "jipmer.edu.in"}
+          ],
+          "further_education": ["M.Sc Nursing", "Nurse Practitioner", "Abroad licensing — NCLEX for USA, NMC for UK"],
+          "govt_jobs": ["Staff Nurse in Government hospitals", "AIIMS Staff Nurse", "Railways Nurse", "Defence MNS Officer"],
+          "abroad": "Very high demand — USA, UK, Australia, UAE, Saudi, Canada. Telugu nurses highly placed."
+        },
+        {
+          "id": "allied_health",
+          "title": "Allied Health Sciences — B.Sc Programs",
+          "icon": "🔬",
+          "color": "#059669",
+          "summary": "3-4 year health science degrees. Medical field without NEET for general seats.",
+          "courses": ["B.Sc MLT — Medical Lab Technology", "B.Sc Radiology and Imaging Technology", "B.Sc OTT — Operation Theatre Technology", "B.Sc Dialysis Technology", "B.Sc Cardiac Technology", "B.Sc Optometry", "B.Sc Anaesthesia Technology", "B.Sc Respiratory Therapy", "BPT — Physiotherapy (4.5 years)", "BOT — Occupational Therapy (4.5 years)", "BMRIT — Bachelor Medical Radiology Imaging Technology"],
+          "admission": "AP/TS EAMCET or direct admission — ntruhs.ap.nic.in, knruhs.telangana.gov.in",
+          "govt_jobs": ["Government hospitals", "AIIMS allied health posts", "Railways hospitals", "Defence hospitals"]
+        },
+        {
+          "id": "veterinary",
+          "title": "Veterinary Science — B.VSc",
+          "icon": "🐄",
+          "color": "#15803D",
+          "summary": "5.5 year veterinary degree. Animal health, agriculture support, government vet officer.",
+          "entrance_exam": {"name": "SVVU CET / NEET (for some states)", "site": "svvu.edu.in", "details": "Sri Venkateswara Veterinary University AP conducts separate CET"},
+          "top_colleges": ["SVVU — Sri Venkateswara Veterinary University Tirupati — svvu.edu.in", "PV Narasimha Rao Telangana Veterinary University — pvnrtvu.ac.in"],
+          "govt_jobs": ["Veterinary Assistant Surgeon", "Livestock Development Officer", "Dairy Development Officer", "NABARD officer"]
+        },
+        {
+          "id": "agriculture_bipc",
+          "title": "Agriculture Sciences — B.Sc Agriculture",
+          "icon": "🌾",
+          "color": "#15803D",
+          "summary": "4-year agriculture degree. ICAR, NABARD, Agriculture Officer — strong government job track.",
+          "entrance_exams": [
+            {"name": "AP EAMCET Agriculture stream", "site": "sche.ap.gov.in"},
+            {"name": "TS EAMCET Agriculture stream", "site": "tsche.ac.in"},
+            {"name": "ICAR AIEEA", "site": "icar.org.in", "details": "For central agriculture universities — IARI, NDRI etc"}
+          ],
+          "courses": ["B.Sc Agriculture", "B.Sc Horticulture", "B.Sc Forestry", "B.F.Sc Fisheries", "B.Sc Sericulture", "B.Sc Food Technology", "B.Sc Biotechnology"],
+          "top_colleges_ap_ts": ["PJTSAU Hyderabad — pjtsau.ac.in", "ANGRAU Guntur — angrau.ac.in", "SVVU Tirupati", "SKLTSHU Telangana"],
+          "govt_jobs": ["Agriculture Extension Officer — APPSC/TSPSC", "Horticulture Officer", "NABARD Officer", "ICAR Scientist", "Seed Inspector", "Fertilizer Inspector"]
+        }
+      ]
+    },
+    "MEC": {
+      "label": "MEC — Maths, Economics, Commerce",
+      "categories": [
+        {
+          "id": "ca_cma_cs",
+          "title": "CA / CMA / CS — Professional Finance Courses",
+          "icon": "📊",
+          "color": "#1D4ED8",
+          "summary": "Most prestigious and highest paying finance careers. Start CA Foundation immediately after 12th.",
+          "courses": [
+            {"name": "CA — Chartered Accountancy", "body": "ICAI", "site": "icai.org", "levels": "Foundation → Intermediate → Final", "duration": "4-5 years", "salary": "Rs 7-25 LPA after qualification, Big 4 up to Rs 50 LPA"},
+            {"name": "CMA — Cost and Management Accountancy", "body": "ICMAI", "site": "icmai.in", "levels": "Foundation → Intermediate → Final", "duration": "3-4 years"},
+            {"name": "CS — Company Secretary", "body": "ICSI", "site": "icsi.edu", "levels": "Foundation → Executive → Professional", "duration": "3-4 years"}
+          ],
+          "govt_jobs": ["Income Tax Officer via SSC CGL", "Audit Officer via SSC CGL", "APPSC/TSPSC accounts officer"]
+        },
+        {
+          "id": "bcom_bba",
+          "title": "B.Com / BBA / Integrated MBA",
+          "icon": "💼",
+          "color": "#0891B2",
+          "summary": "3-5 year commerce and business degrees. Pathway to MBA, banking, and corporate careers.",
+          "entrance_exams": [
+            {"name": "IPMAT", "body": "IIM Indore", "site": "ipmat.iimi.ac.in", "details": "5-year integrated MBA at IIM Indore, Rohtak, Ranchi — top management career"},
+            {"name": "CUET", "site": "cuet.samarth.ac.in", "details": "Central Universities B.Com Honours, BBA"},
+            {"name": "AP/TS University Direct", "details": "Merit based on 12th marks for state universities"}
+          ],
+          "courses": ["B.Com General", "B.Com Computers", "B.Com Honours", "BBA", "BBM", "BMS", "Integrated MBA 5 years"],
+          "top_colleges": ["Osmania University", "Andhra University", "IIM Visakhapatnam — iimv.ac.in", "Hyderabad Business School"],
+          "further_education": ["MBA via CAT — iimcat.ac.in", "M.Com", "CFA", "ACCA"],
+          "govt_jobs": ["Banking PO/Clerk — IBPS, SBI", "SSC CGL", "Revenue Inspector", "Insurance Officer — LIC"]
+        },
+        {
+          "id": "law_mec",
+          "title": "Law — LLB / Integrated BA LLB",
+          "icon": "⚖️",
+          "color": "#7C3AED",
+          "summary": "5-year integrated law program. Corporate law, civil services law, judiciary.",
+          "entrance_exams": [
+            {"name": "CLAT", "body": "Consortium of NLUs", "site": "consortiumofnlus.ac.in", "details": "National Law Universities — NALSAR Hyderabad is in top 5 in India"},
+            {"name": "AP LAWCET", "site": "sche.ap.gov.in"},
+            {"name": "TS LAWCET", "site": "tsche.ac.in"},
+            {"name": "AILET", "site": "nludelhi.ac.in", "details": "NLU Delhi"}
+          ],
+          "top_colleges": ["NALSAR Hyderabad — nalsar.ac.in (top 5 in India)", "NLU Hyderabad", "Andhra University Law College", "Osmania University Law College"],
+          "govt_jobs": ["Public Prosecutor", "Government Pleader", "Judge via Judicial Services exam", "Revenue Legal Officer", "APPSC/TSPSC Law Officer"]
+        }
+      ]
+    },
+    "CEC": {
+      "label": "CEC — Civics, Economics, Commerce",
+      "categories": [
+        {
+          "id": "bcom_cec",
+          "title": "B.Com / BBA / Commerce Programs",
+          "icon": "💼",
+          "color": "#1D4ED8",
+          "summary": "Commerce degree pathway to banking, government services, and corporate jobs.",
+          "entrance_exams": [
+            {"name": "CUET", "site": "cuet.samarth.ac.in"},
+            {"name": "AP/TS University Direct Admission", "site": "sche.ap.gov.in"}
+          ],
+          "courses": ["B.Com General", "B.Com Computers", "BBA", "BHM — Hotel Management"],
+          "top_colleges": ["Osmania University", "Andhra University", "Kakatiya University", "Telangana University"],
+          "further_education": ["MBA", "M.Com", "CA Foundation (can start)", "Banking preparation"],
+          "govt_jobs": ["Banking PO/Clerk — ibps.in", "SSC CGL", "APPSC/TSPSC Group 2/3", "Revenue Department"]
+        },
+        {
+          "id": "law_cec",
+          "title": "Law — Integrated BA LLB",
+          "icon": "⚖️",
+          "color": "#7C3AED",
+          "summary": "5-year law program. Good for civil services and corporate law.",
+          "entrance_exams": [
+            {"name": "CLAT", "site": "consortiumofnlus.ac.in"},
+            {"name": "AP LAWCET", "site": "sche.ap.gov.in"},
+            {"name": "TS LAWCET", "site": "tsche.ac.in"}
+          ],
+          "top_colleges": ["NALSAR Hyderabad — nalsar.ac.in", "Andhra University Law", "Osmania University Law"]
+        },
+        {
+          "id": "banking_insurance",
+          "title": "Banking and Insurance Preparation",
+          "icon": "🏦",
+          "color": "#059669",
+          "summary": "Start preparation for banking exams now. Multiple opportunities every year.",
+          "exams": [
+            {"name": "IBPS PO", "site": "ibps.in", "details": "Bank Probationary Officer — most popular banking exam"},
+            {"name": "IBPS Clerk", "site": "ibps.in"},
+            {"name": "SBI PO", "site": "sbi.co.in"},
+            {"name": "SBI Clerk", "site": "sbi.co.in"},
+            {"name": "RBI Grade B", "site": "rbi.org.in"},
+            {"name": "LIC AAO", "site": "licindia.in"},
+            {"name": "NIACL/UIICL Insurance", "site": "newindia.co.in"}
+          ],
+          "eligibility": "Graduation required for PO. Some require only 12th. Start preparation during graduation."
+        }
+      ]
+    },
+    "HEC": {
+      "label": "HEC — History, Economics, Civics",
+      "categories": [
+        {
+          "id": "ba_humanities",
+          "title": "BA — Humanities and Social Sciences",
+          "icon": "📚",
+          "color": "#4F46E5",
+          "summary": "3-year arts degree. Best foundation for civil services, law, teaching, and journalism.",
+          "entrance_exams": [
+            {"name": "CUET", "site": "cuet.samarth.ac.in", "details": "Central Universities — University of Hyderabad, JNU, DU"},
+            {"name": "University of Hyderabad Entrance", "site": "uohyd.ac.in"},
+            {"name": "JNU Entrance", "site": "jnu.ac.in"},
+            {"name": "AP/TS University Direct Admission", "site": "sche.ap.gov.in"}
+          ],
+          "courses": ["BA History", "BA Political Science", "BA Economics", "BA Sociology", "BA Psychology", "BA Public Administration", "BA Philosophy", "BA Telugu/Hindi/English Literature"],
+          "top_colleges": ["University of Hyderabad — uohyd.ac.in", "JNU Delhi — jnu.ac.in", "Osmania University", "Andhra University", "Sri Venkateswara University"],
+          "further_education": ["MA", "PhD", "NET for teaching", "Civil Services"],
+          "govt_jobs": ["IAS/IPS/IFS via UPSC", "APPSC/TSPSC Group 1/2", "Teacher via DSC", "Revenue Officer", "Cultural Department"]
+        },
+        {
+          "id": "civil_services",
+          "title": "Civil Services — UPSC / APPSC / TSPSC",
+          "icon": "🏛️",
+          "color": "#DC2626",
+          "summary": "Most prestigious career in India. IAS, IPS, IFS. Start foundation now during graduation.",
+          "exams": [
+            {"name": "UPSC CSE", "body": "UPSC", "site": "upsc.gov.in", "details": "IAS IPS IFS IRS — after graduation. Start preparation now.", "posts": "IAS, IPS, IFS, IRS, IES, IRTS and 20+ central services"},
+            {"name": "APPSC Group 1", "body": "APPSC", "site": "appsc.gov.in", "details": "Deputy Collector, DSP, Commercial Tax Officer — AP State services"},
+            {"name": "APPSC Group 2", "body": "APPSC", "site": "appsc.gov.in", "details": "Sub-Registrar, Mandal Revenue Officer, Tehsildar equivalent"},
+            {"name": "TSPSC Group 1", "body": "TSPSC", "site": "tspsc.gov.in", "details": "Telangana Deputy Collector, DSP equivalent"},
+            {"name": "TSPSC Group 2", "body": "TSPSC", "site": "tspsc.gov.in"},
+            {"name": "APPSC/TSPSC Group 3", "site": "appsc.gov.in", "details": "Junior Assistants, Secretariat Staff"},
+            {"name": "AP Grama Sachivalayam", "site": "gramasachivalayam.ap.gov.in"}
+          ],
+          "strategy": "Read NCERT books 6-12 now. Follow The Hindu newspaper. Study AP and TS history and polity deeply."
+        },
+        {
+          "id": "law_hec",
+          "title": "Law — BA LLB Integrated",
+          "icon": "⚖️",
+          "color": "#7C3AED",
+          "summary": "HEC students are well suited for law — civics and history give strong foundation.",
+          "entrance_exams": [
+            {"name": "CLAT", "site": "consortiumofnlus.ac.in"},
+            {"name": "AP LAWCET", "site": "sche.ap.gov.in"},
+            {"name": "TS LAWCET", "site": "tsche.ac.in"}
+          ],
+          "top_colleges": ["NALSAR Hyderabad — nalsar.ac.in", "Andhra University Law", "Osmania University Law"],
+          "govt_jobs": ["Judiciary via AP/TS Judicial Services", "Public Prosecutor", "Government Pleader", "Revenue Legal Officer"]
+        },
+        {
+          "id": "journalism_media",
+          "title": "Journalism and Mass Communication",
+          "icon": "📰",
+          "color": "#0891B2",
+          "summary": "3-year journalism degree. TV, digital media, print journalism, PR.",
+          "courses": ["B.A. Journalism and Mass Communication", "B.Sc Media Studies"],
+          "entrance_exams": [{"name": "CUET", "site": "cuet.samarth.ac.in"}, {"name": "IIMC Entrance", "site": "iimc.gov.in", "details": "Indian Institute of Mass Communication"}],
+          "top_colleges": ["IIMC Delhi — iimc.gov.in", "Osmania University Journalism", "University of Hyderabad Mass Communication"],
+          "jobs": ["News anchor", "Reporter", "Digital content creator", "PR manager", "Film journalist"]
+        }
+      ]
+    },
+    "Vocational": {
+      "label": "Vocational — Skill-based Intermediate",
+      "categories": [
+        {
+          "id": "bvoc",
+          "title": "B.Voc — Bachelor of Vocation",
+          "icon": "🛠️",
+          "color": "#059669",
+          "summary": "3-year skill-based degree. Multiple exit points. Industry-aligned curriculum.",
+          "entrance_exams": [{"name": "State Vocational CET / Direct admission", "site": "apsche.ap.gov.in"}],
+          "specializations": ["B.Voc Software Development", "B.Voc Healthcare", "B.Voc Retail Management", "B.Voc Agriculture", "B.Voc Automobile", "B.Voc Construction", "B.Voc Food Processing"],
+          "further_education": ["M.Voc", "MBA with work experience", "NSQF Level 7 certifications"],
+          "govt_jobs": ["Technical Assistant posts via APPSC/TSPSC", "Skill India trainer", "APSSDC/TSSDC program coordinator"]
+        },
+        {
+          "id": "diploma_lateral",
+          "title": "Diploma Lateral Entry",
+          "icon": "⚙️",
+          "color": "#0891B2",
+          "summary": "After vocational inter, lateral entry to 2nd year Diploma in Polytechnic.",
+          "exam": {"name": "POLYCET lateral entry", "site": "polycetap.nic.in"},
+          "further": "After diploma — ECET for B.Tech lateral entry"
+        },
+        {
+          "id": "skill_advanced",
+          "title": "Advanced Skill Certification",
+          "icon": "📜",
+          "color": "#7C3AED",
+          "summary": "Industry certifications leading to direct employment.",
+          "providers": [
+            {"name": "APSSDC Advanced Courses", "site": "apssdc.in"},
+            {"name": "TSSDC Advanced Courses", "site": "tssdc.telangana.gov.in"},
+            {"name": "NSDC — National Skill Development Corporation", "site": "nsdcindia.org"},
+            {"name": "PMKVY Advanced", "site": "pmkvyofficial.org"}
+          ]
+        }
+      ]
+    }
+  },
+  "common_for_all_inter": {
+    "defence": {
+      "title": "Defence After Inter",
+      "entries": [
+        {"name": "NDA — National Defence Academy (PCM students only)", "body": "UPSC", "site": "upsc.gov.in", "details": "Join Army/Navy/Air Force as Officer. Age 16.5-19.5. Written + SSB.", "stream": "MPC only"},
+        {"name": "Technical Entry Scheme — Army", "site": "joinindianarmy.nic.in", "details": "PCM students directly to Army Officer training", "stream": "MPC only"},
+        {"name": "MNS — Military Nursing Service", "site": "joinindianarmy.nic.in", "details": "Girl students BiPC — Army nursing officer", "stream": "BiPC girls"},
+        {"name": "Indian Coast Guard Navik", "site": "joinindiancoastguard.cdac.in", "details": "After 12th any stream"},
+        {"name": "AP Police Sub-Inspector", "site": "slprb.ap.gov.in", "details": "After 12th — any stream"},
+        {"name": "TS Police Sub-Inspector", "site": "tslprb.in", "details": "After 12th — any stream"},
+        {"name": "CISF/BSF/CRPF Constable", "site": "ssc.nic.in", "details": "After 12th — any stream"}
+      ]
+    },
+    "civil_services_foundation": {
+      "title": "Civil Services Foundation — Start Now",
+      "message": "UPSC, APPSC, TSPSC exams require graduation but start foundation preparation now. Those who start in intermediate get huge advantage.",
+      "resources": ["upsc.gov.in", "appsc.gov.in", "tspsc.gov.in"],
+      "action": "Read NCERT books. Follow The Hindu. Study AP/TS history, polity, geography deeply."
+    },
+    "banking_foundation": {
+      "title": "Banking Preparation Foundation",
+      "message": "IBPS, SBI exams need graduation but start maths and reasoning preparation now.",
+      "exams": [
+        {"name": "IBPS PO", "site": "ibps.in"},
+        {"name": "SBI PO", "site": "sbi.co.in"},
+        {"name": "RBI Assistant", "site": "rbi.org.in"}
+      ]
+    },
+    "scholarships_inter": {
+      "title": "Scholarships for Inter Completed Students",
+      "ap_scholarships": [
+        {"name": "Jagananna Vidya Deevena", "benefit": "Full fee reimbursement for all courses after inter", "eligibility": "Income below 2.5 lakhs, AP domicile", "site": "apepass.apcfss.in"},
+        {"name": "Jagananna Vasathi Deevena", "benefit": "Rs 10,000 to 20,000 per year maintenance", "eligibility": "Income below 2.5 lakhs, AP domicile", "site": "apepass.apcfss.in"},
+        {"name": "AP Post-Matric Scholarship", "benefit": "Full tuition + maintenance for SC/ST/BC", "site": "apepass.apcfss.in"},
+        {"name": "AP Overseas Scholarship", "benefit": "Full funding to study abroad for SC/ST toppers", "site": "apepass.apcfss.in"}
+      ],
+      "ts_scholarships": [
+        {"name": "TS ePass", "benefit": "Full fee and maintenance", "eligibility": "SC/ST/BC/Minority/EBC", "site": "telanganaepass.cgg.gov.in"},
+        {"name": "TS Overseas Scholarship", "benefit": "Study abroad funded for SC/ST", "site": "telanganaepass.cgg.gov.in"},
+        {"name": "TS Merit Scholarship", "benefit": "Top rankers special scholarship", "site": "telanganaepass.cgg.gov.in"}
+      ],
+      "central_scholarships": [
+        {"name": "PM YASASVI", "benefit": "Rs 75,000-1,25,000 per year", "eligibility": "OBC/EBC/DNT — income below 2.5 lakhs", "site": "scholarships.gov.in"},
+        {"name": "INSPIRE Scholarship", "benefit": "Rs 80,000 per year for science students", "eligibility": "Top 1% in 12th board — pure science enrollment", "site": "online-inspire.gov.in"},
+        {"name": "NSP — National Scholarship Portal", "benefit": "All central schemes", "site": "scholarships.gov.in"},
+        {"name": "Maulana Azad Fellowship", "benefit": "Full funding for minority students", "site": "scholarships.gov.in"},
+        {"name": "Central Sector Scholarship", "benefit": "Rs 10,000-20,000 per year merit based", "site": "scholarships.gov.in"}
+      ],
+      "international": [
+        {"name": "Commonwealth Scholarship (UK)", "site": "cscuk.fcdo.gov.uk", "note": "Build profile now — apply after graduation"},
+        {"name": "Fulbright Scholarship (USA)", "site": "usief.org.in", "note": "After graduation — start building profile now"},
+        {"name": "DAAD Scholarship (Germany)", "site": "daad.in", "note": "Engineering students — very popular"},
+        {"name": "Chevening Scholarship (UK)", "site": "chevening.org", "note": "After graduation + work experience"}
+      ],
+      "private_scholarships": [
+        {"name": "Reliance Foundation Scholarship", "site": "reliancefoundation.org"},
+        {"name": "Tata Scholarship", "site": "buddy4study.com"},
+        {"name": "Buddy4Study Platform", "site": "buddy4study.com"},
+        {"name": "Vidyasaarathi Platform", "site": "vidyasaarathi.co.in"}
+      ]
+    }
+  }
+}
